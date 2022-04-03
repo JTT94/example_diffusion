@@ -16,7 +16,7 @@
 ```
 
 ## Procedure
-- Training consists of two steps:
+- Training consists of a few steps:
   - Sample data $$x_0$$
   - Sample random time $t \sim Uniform(1,2,3\ldots,T)$
   - Apply noise from SDE to generate $x_t$
